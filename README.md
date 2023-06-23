@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/619535741973692426"><img align="left" src="https://lanyard.cnrad.dev/api/619535741973692426?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+<a href="https://discord.com/users/619535741973692426"><img align="left" src="https://lanyard.cnrad.dev/api/477870815581569034?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
 
 
 <a href="https://www.w3schools.com/html/">
