@@ -1,3 +1,6 @@
+<a href="https://discord.com/users/477870815581569034"><img align="left" src="https://lanyard.cnrad.dev/api/477870815581569034?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+
+
 <a href="https://www.w3schools.com/html/">
   <img  alt="HTML5" width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
 </a>
